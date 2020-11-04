@@ -1,5 +1,5 @@
-# WebScraping
-WebScraping de datos de covid-19
+# Web Scraping
+Web Scraping de datos de covid-19
 
 ## Descripción
 
