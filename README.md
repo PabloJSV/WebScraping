@@ -13,7 +13,8 @@ La actividad fue realizada de manera individual por Jhon Harry Loaiza.
 
 ## Ejecución
 El fichero se ejecuta con el comando:
-python covid19_scraping.py
+
+*python covid19_scraping.py*
 
 El resultado es un archivo que cuyo nombre contiene la fecha de ejecución, con la estructura "dd-mm-yyyy covid19.csv".  
 
