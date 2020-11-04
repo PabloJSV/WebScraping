@@ -9,7 +9,7 @@ Este proyecto hace parte de la práctica de WebScraping del curso *Tipología y 
 La actividad fue realizada de manera individual por Jhon Harry Loaiza.
 
 ## Ficheros del código fuente
-*coronavirus_scraping.py* es el archivo que ejecuta el scraping y crea el archivo csv con la información. 
+*coronavirus_scraping.py* es el archivo que ejecuta el scraping y crea el archivo csv con la información del día por países. 
 
 ## Recursos
 * Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
