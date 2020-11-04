@@ -25,7 +25,7 @@ El fichero se ejecuta con el comando:
 python covid19_scraping.py
 ```
 
-El resultado es un archivo que cuyo nombre contiene la fecha de ejecución, con la estructura "dd-mm-yyyy covid19.csv".  
+El resultado es un archivo que cuyo nombre contiene la fecha de ejecución, con la estructura *"dd-mm-yyyy covid19.csv"*.  
 
 ## Recursos
 * Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
