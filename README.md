@@ -12,6 +12,13 @@ La actividad fue realizada de manera individual por Jhon Harry Loaiza.
 *covid19_scraping.py* es el archivo que ejecuta el scraping y crea el archivo csv con la información del día por países. 
 
 ## Ejecución
+Para la ejecucion del script es necesario instalar las siguientes librerias:
+```python
+pip install requests
+pip install lxml
+pip install time
+pip install pandas
+```
 El fichero se ejecuta con el comando:
 
 ```python
