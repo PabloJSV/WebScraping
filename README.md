@@ -6,7 +6,7 @@ Web Scraping de datos de covid-19.
 Este proyecto hace parte de la práctica de Web Scraping del curso *Tipología y ciclo de vida de los datos*, del master en *Ciencia de Datos* de la UOC, la cual consiste en la construcción de un dataset de estadísticas de covid-19 mediante el uso de técnicas de Web Scraping usando la página web *Worldometers*.
 
 ## Integrantes del equipo
-La actividad fue realizada de manera individual por Jhon Harry Loaiza.
+La actividad fue realizada por Jhon Harry Loaiza y Pablo Jesus Sanchez Vargas.
 
 ## Ficheros del código fuente
 *covid19_scraping.py* es el archivo que ejecuta el scraping y crea el archivo csv con la información del día por países. 
@@ -17,6 +17,7 @@ Para la ejecución del script es necesario instalar las siguientes librerias:
 pip install requests
 pip install lxml
 pip install time
+pip install schedule
 pip install pandas
 ```
 El fichero se ejecuta con el comando:
